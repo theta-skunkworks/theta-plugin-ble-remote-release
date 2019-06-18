@@ -21,7 +21,7 @@ This sample plug-in detects BLE advertising from [Pochiru (eco)](http://www.prod
 ## How to Use Plug-in
 
 1. Start the plug-in.
-2. Ready to take a picture if the Camera LED (<img style="height:0.9em;" alt="Camera LED icon" src="images/camera-on.png"/>) is turned on.
+2. Ready to take a picture if the Camera LED (![Camera LED icon](images/camera-on.svg)) is turned on.
 3. Click the button of Pochiru (eco) to take a picture.
 4. Wait a several seconds to take next picture. Camera LED will turn on again.
 
